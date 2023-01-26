@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cihat Burak
+- 👋 Hi, I’m Burak
 - 👀 I’m interested in data analysis implementation , machine learning and deep learning algorithms , building and evaluating models with Python.
 - 🌱 I’m currently learning distributed environment like Hadoop, Spark.
 - 💞️ I aim to continue my career in a company where I can improve myself by using the knowledge I have gained and
