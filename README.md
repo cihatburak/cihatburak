@@ -1,6 +1,6 @@
 # Hi, I'm Burak 👋
 
-**AI/ML Engineer** | MSc Data Science & AI @ Leiden University 🇳🇱
+**AI/ML Engineer & Data Scientist** | MSc Data Science & AI @ Leiden University 🇳🇱
 
 I build intelligent systems that bridge the gap between AI research and real-world business impact.
 
