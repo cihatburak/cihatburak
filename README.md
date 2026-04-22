@@ -5,7 +5,7 @@
 I build intelligent systems that bridge the gap between AI research and real-world business impact.
 
 ## 🔬 Current Focus
-- 🎓 **Master's Thesis:** Multi-Agent LLM architectures for automated BI report generation (LangGraph, GPT-4o, RAG, Reflexion)
+- 🎓 **Master's Thesis:** Multi-Agent LLM architectures for automated BI report generation (LangGraph, GPT, RAG, Reflexion)
 - 🤖 Previously: 7 years as a data-driven e-commerce entrepreneur | 2 years IT Business Analyst at Koton (500+ stores)
 
 ## 🛠️ Tech Stack
